@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../c-113-filtro-color"
+		},
+		{
+			"path": "../ia filtro-c-114"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ia filtro-c-114 projecto"
+	}
+}

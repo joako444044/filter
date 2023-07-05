@@ -1,0 +1,34 @@
+h3 
+{
+font-family: fantasy;
+font-size: 20px!important;
+color: black!important;
+}
+.btn-success:hover
+{
+background-color: rgb(255, 255, 255)!important;
+color: rgb(56, 233, 100)!important;
+}
+button
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black ;
+
+}
+.btn-info
+{
+    width: 100% !important;
+}
+
+canvas
+{
+animation-name:example ;
+animation-duration: 1s;
+animation-iteration-count: infinite;
+}
+
+@keyframes example{
+from {box-shadow: 1px 1px 20px black;left:618px; top:155px;}
+to {box-shadow: 1px 1px 20px white;left:620px; top:155px;}
+
+}
